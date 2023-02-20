@@ -7,3 +7,4 @@ this web app was to make with the next technologies
 -hibernate
 -javascript
 -mysql
+-jwt
